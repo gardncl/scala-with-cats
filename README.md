@@ -22,7 +22,16 @@ This repo contains annotated code for my reading of _[Scala With Cats](https://u
    - 2.6 Applications of Monoids
    - 2.7 Summary
 
- - [ ] Chapter 3: Functors
+ - [x] Chapter 3: Functors
+   - 3.1 [Examples of Functors](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/three/One.scala)
+   - 3.2 [More Examples of Functors](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/three/Two.scala)
+   - 3.3 [Definition of a Functor](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/three/Three.scala)
+   - 3.4 [Aside: Higher Kinds and Type Constructors](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/three/Four.scala)
+   - 3.5 [Functors in Cats](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/three/Five.scala)
+   - 3.6 [Contravariant and Invariant Functors](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/three/Six.scala)
+   - 3.7 [Covariant and Invariant in Cats](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/three/Seven.scala)
+   - 3.8 Aside: Partial Unification
+   - 3.9 Summary
  - [ ] Chapter 4: Monads
  - [ ] Chapter 5: Monad Transformers
  - [ ] Chapter 6: Semigroupal and Applicative
