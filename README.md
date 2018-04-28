@@ -33,6 +33,17 @@ This repo contains annotated code for my reading of _[Scala With Cats](https://u
    - 3.8 Aside: Partial Unification
    - 3.9 Summary
  - [ ] Chapter 4: Monads
+   - 4.1 [What is a Monad?](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/One.scala)
+   - 4.2 [Monads in Cats](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/Two.scala)
+   - 4.3 [The Identity Monad](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/Three.scala)
+   - 4.4 [Either](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/Four.scala)
+   - 4.5 [Aside: Error Handling and MonadError](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/Five.scala)
+   - 4.6 [The Eval Monad](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/Six.scala)
+   - 4.7 [The Writer Monad](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/Seven.scala)
+   - 4.8 [The Reader Monad](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/Eight.scala)
+   - 4.9 [The State Monad](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/Nine.scala)
+   - 4.10 [Defining Custom Monads](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/Ten.scala)
+   - 4.11 Summary
  - [ ] Chapter 5: Monad Transformers
  - [ ] Chapter 6: Semigroupal and Applicative
  - [ ] Chapter 7: Foldable and Traverse
