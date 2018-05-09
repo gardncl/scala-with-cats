@@ -32,7 +32,7 @@ This repo contains annotated code for my reading of _[Scala With Cats](https://u
    - 3.7 [Covariant and Invariant in Cats](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/three/Seven.scala)
    - 3.8 Aside: Partial Unification
    - 3.9 Summary
- - [ ] Chapter 4: Monads
+ - [x] Chapter 4: Monads
    - 4.1 [What is a Monad?](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/One.scala)
    - 4.2 [Monads in Cats](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/Two.scala)
    - 4.3 [The Identity Monad](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/Three.scala)
@@ -44,7 +44,12 @@ This repo contains annotated code for my reading of _[Scala With Cats](https://u
    - 4.9 [The State Monad](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/Nine.scala)
    - 4.10 [Defining Custom Monads](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/Ten.scala)
    - 4.11 Summary
- - [ ] Chapter 5: Monad Transformers
+ - [x] Chapter 5: Monad Transformers
+   - 5.1 Exercise: Composing Monads
+   - 5.2 [A Transformative Example](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/five/Two.scala)
+   - 5.3 [Monad Transformers in Cats](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/five/Three.scala)
+   - 5.4 [Exercise: Monads: Transform and Roll Out](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/five/Four.scala)
+   - 5.5 Summary
  - [ ] Chapter 6: Semigroupal and Applicative
  - [ ] Chapter 7: Foldable and Traverse
  - [ ] Chapter 8: Case Study: Testing Asynchronous Code
