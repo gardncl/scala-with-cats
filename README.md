@@ -50,7 +50,13 @@ This repo contains annotated code for my reading of _[Scala With Cats](https://u
    - 5.3 [Monad Transformers in Cats](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/five/Three.scala)
    - 5.4 [Exercise: Monads: Transform and Roll Out](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/five/Four.scala)
    - 5.5 Summary
- - [ ] Chapter 6: Semigroupal and Applicative
+ - [x] Chapter 6: Semigroupal and Applicative
+    - 6.1 [Semigroupal](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/six/One.scala)
+    - 6.2 [Apply Syntax](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/six/Two.scala)
+    - 6.3 [Semigroupal Applied to Different Types](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/six/Three.scala)
+    - 6.4 [Validated](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/six/Four.scala)
+    - 6.5 Apply and Applicative
+    - 6.6 Summary
  - [ ] Chapter 7: Foldable and Traverse
  - [ ] Chapter 8: Case Study: Testing Asynchronous Code
  - [ ] Chapter 9: Case Study: Map-Reduce
