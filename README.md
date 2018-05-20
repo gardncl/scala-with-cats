@@ -57,7 +57,10 @@ This repo contains annotated code for my reading of _[Scala With Cats](https://u
     - 6.4 [Validated](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/six/Four.scala)
     - 6.5 Apply and Applicative
     - 6.6 Summary
- - [ ] Chapter 7: Foldable and Traverse
+ - [x] Chapter 7: Foldable and Traverse
+    - 7.1 [Foldable](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/seven/One.scala)
+    - 7.1 [Traverse](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/seven/Two.scala)
+    - 7.1 Summary
  - [ ] Chapter 8: Case Study: Testing Asynchronous Code
  - [ ] Chapter 9: Case Study: Map-Reduce
  - [ ] Chapter 10: Case Study: Data Validation
