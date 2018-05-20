@@ -32,6 +32,7 @@ This repo contains annotated code for my reading of _[Scala With Cats](https://u
    - 3.7 [Covariant and Invariant in Cats](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/three/Seven.scala)
    - 3.8 Aside: Partial Unification
    - 3.9 Summary
+
  - [x] Chapter 4: Monads
    - 4.1 [What is a Monad?](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/One.scala)
    - 4.2 [Monads in Cats](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/Two.scala)
@@ -44,12 +45,14 @@ This repo contains annotated code for my reading of _[Scala With Cats](https://u
    - 4.9 [The State Monad](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/Nine.scala)
    - 4.10 [Defining Custom Monads](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/four/Ten.scala)
    - 4.11 Summary
+
  - [x] Chapter 5: Monad Transformers
    - 5.1 Exercise: Composing Monads
    - 5.2 [A Transformative Example](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/five/Two.scala)
    - 5.3 [Monad Transformers in Cats](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/five/Three.scala)
    - 5.4 [Exercise: Monads: Transform and Roll Out](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/five/Four.scala)
    - 5.5 Summary
+
  - [x] Chapter 6: Semigroupal and Applicative
     - 6.1 [Semigroupal](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/six/One.scala)
     - 6.2 [Apply Syntax](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/six/Two.scala)
@@ -57,11 +60,16 @@ This repo contains annotated code for my reading of _[Scala With Cats](https://u
     - 6.4 [Validated](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/six/Four.scala)
     - 6.5 Apply and Applicative
     - 6.6 Summary
+
  - [x] Chapter 7: Foldable and Traverse
     - 7.1 [Foldable](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/seven/One.scala)
     - 7.1 [Traverse](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/seven/Two.scala)
     - 7.1 Summary
- - [ ] Chapter 8: Case Study: Testing Asynchronous Code
+
+ - [x] Chapter 8: Case Study: Testing Asynchronous Code
+    - 8.1 [Abstracting over Type Constructors](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/eight/One.scala)
+    - 8.2 [Abstracting over Monads](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/eight/Two.scala)
+    - 8.3 Summary
  - [ ] Chapter 9: Case Study: Map-Reduce
  - [ ] Chapter 10: Case Study: Data Validation
  - [ ] Chapter 11: Case Study: CRDTs
