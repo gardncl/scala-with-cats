@@ -76,5 +76,11 @@ This repo contains annotated code for my reading of _[Scala With Cats](https://u
     - 9.1 [Implementing foldMap](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/nine/Two.scala)
     - 9.1 [Parallelising foldMap](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/nine/Three.scala)
     - 9.1 Summary
- - [ ] Chapter 10: Case Study: Data Validation
+ - [x] Chapter 10: Case Study: Data Validation
+    - 10.1 [Sketching the Library Structure](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/ten/One.scala)
+    - 10.2 [The Check Datatype](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/ten/Two.scala)
+    - 10.3 [Basic Combinators](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/ten/Three.scala)
+    - 10.4 [Transforming Data](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/ten/Four.scala)
+    - 10.5 [Kleislis](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/ten/Five.scala)
+    - 10.6 Summary
  - [ ] Chapter 11: Case Study: CRDTs
