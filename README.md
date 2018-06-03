@@ -70,6 +70,11 @@ This repo contains annotated code for my reading of _[Scala With Cats](https://u
     - 8.1 [Abstracting over Type Constructors](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/eight/One.scala)
     - 8.2 [Abstracting over Monads](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/eight/Two.scala)
     - 8.3 Summary
- - [ ] Chapter 9: Case Study: Map-Reduce
+
+ - [x] Chapter 9: Case Study: Map-Reduce
+    - 9.1 [Parallelizing map and fold](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/nine/One.scala)
+    - 9.1 [Implementing foldMap](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/nine/Two.scala)
+    - 9.1 [Parallelising foldMap](https://github.com/gardncl/scala-with-cats/tree/master/src/main/scala/nine/Three.scala)
+    - 9.1 Summary
  - [ ] Chapter 10: Case Study: Data Validation
  - [ ] Chapter 11: Case Study: CRDTs
